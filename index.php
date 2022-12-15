@@ -40,8 +40,8 @@ function loginForm(){
     <head>
         <meta charset="utf-8" />
  
-        <title>Chat 8CLD202</title>
-        <meta name="description" content="Chat 8CLD202" />
+        <title>Chat202 BELBUI</title>
+        <meta name="description" content="Chat202 BELBUI" />
         <link rel="stylesheet" href="style.css" />
     </head>
     <body>
